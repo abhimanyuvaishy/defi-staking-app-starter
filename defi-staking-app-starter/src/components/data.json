@@ -1,0 +1,156 @@
+{
+    "messages": null,
+    "success": true,
+    "data": [{
+        "instituteId": 431766,
+        "institutionName": "Global Logic Dev Org 444FC3D51-A05C-494E-82AE-0073",
+        "institutionLevel": 1,
+        "parentId": null
+    }, {
+        "instituteId": 431767,
+        "institutionName": "Z_AutoLocation0",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431768,
+        "institutionName": "Z_AutoLocation1",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431769,
+        "institutionName": "Z_AutoLocation2",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431770,
+        "institutionName": "Z_AutoLocation3",
+        "institutionLevel": 5,
+        "parentId": 431960
+    }, {
+        "instituteId": 431956,
+        "institutionName": "test_school",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431957,
+        "institutionName": "test_school",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431958,
+        "institutionName": "test_school",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431959,
+        "institutionName": "test_school",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431960,
+        "institutionName": "test_school1",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431961,
+        "institutionName": "test_school2",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431962,
+        "institutionName": "test_school_1",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431963,
+        "institutionName": "test_school_2",
+        "institutionLevel": 3,
+        "parentId": 431767
+    }, {
+        "instituteId": 431964,
+        "institutionName": "test_school_3",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431965,
+        "institutionName": "test_school_4",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431968,
+        "institutionName": "School of Music12",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431969,
+        "institutionName": "School Visibility Check",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431970,
+        "institutionName": "School Visibility Check1",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431971,
+        "institutionName": "School Visibility Check1",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431972,
+        "institutionName": "School of Visi_Test",
+        "institutionLevel": 3,
+        "parentId": 431970
+    }, {
+        "instituteId": 431973,
+        "institutionName": "school of trinitymusic",
+        "institutionLevel": 3,
+        "parentId": 431968
+    }, {
+        "instituteId": 431974,
+        "institutionName": "Austin College",
+        "institutionLevel": 3,
+        "parentId": 431960
+    }, {
+        "instituteId": 431975,
+        "institutionName": "School of Mintrest",
+        "institutionLevel": 3,
+        "parentId": 431969
+    }, {
+        "instituteId": 431976,
+        "institutionName": "School of Mint",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431977,
+        "institutionName": "AI School",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431978,
+        "institutionName": "Music school Austin",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431979,
+        "institutionName": "Music school Austin1",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 431980,
+        "institutionName": "School of AI ML",
+        "institutionLevel": 2,
+        "parentId": 431766
+    }, {
+        "instituteId": 433485,
+        "institutionName": "testNew1",
+        "institutionLevel": 2,
+        "parentId": 431766
+    },
+    {
+        "instituteId": 431,
+        "institutionName": "Global Logic Dev Org",
+        "institutionLevel": 1,
+        "parentId": null
+    }]
+}
